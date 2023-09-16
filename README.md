@@ -2,9 +2,11 @@
 
 The static website is made with Bootstrap 5 and is hosted on Azure Blob Storage. The visitor counter that is updated after each page visit is done through a function on the [backend.](https://github.com/Kinda-Nefarious/azure-resume-backend)
 
-View it live [here.](https://resume.rufaronyakudya.com/)
+You can read further about the project on my blog [post.]()
 
-It also serves as the resume page of my [portfolio website.](https://www.rufaronyakudya.com/)
+View the website live [here.](https://resume.rufaronyakudya.com/)
+
+The website also serves as the resume page of my [portfolio website.](https://www.rufaronyakudya.com/)
 
 ## Architecture
 
