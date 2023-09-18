@@ -3,8 +3,8 @@ window.addEventListener('DOMContentLoaded', (event) => {
 });
 
 
-const localApi = '';
-const functionApi = ''; 
+const localApi = 'http://localhost:7071/api/GetResumeCounter';
+const functionApi = 'https://getresumecounterrufaro.azurewebsites.net/api/GetResumeCounter?code=gRaOMg4-SeUCbrmq2-JeiUdxf1ngNmCb7H6WWPU80DH1AzFu1saXzg=='; 
 
 const getVisitCount = () => {
     let count = 30;
