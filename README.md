@@ -10,6 +10,7 @@ The website also serves as the resume page of my [portfolio website.](https://ww
 
 ## Architecture
 
+![Alt text](assets/images/serverless.png)
 
 ### Technologies used
 
