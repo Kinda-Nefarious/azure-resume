@@ -19,6 +19,7 @@ The website also serves as the resume page of my [portfolio website.](https://ww
 - Github Actions (CI/CD)
 - Azure Blob Storage
 - Azure CDN
+- Xunit testing
 
 ## Project Goals
 
@@ -31,6 +32,7 @@ This project also serves to illustrate the architecture and workings  of a decou
 - Improve CI/CD pipeline to further meet industry standards
 - Further leverage IaC to increase automation in project
 - Secure the app at both frontend and backend
+- Add monitoring
 
 ## License
 Licensed under MIT License.
