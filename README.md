@@ -24,7 +24,7 @@ The website also serves as the resume page of my [portfolio website.](https://ww
 
 ## Project Goals
 
-The purpose of this project is to show that one is capable of developing and deploying a cloud-based website utilizing Azure services. Using Azure services, the website is completely managed, scalable, and economical. The project demonstrates how to automate the deployment process so that the website is constantly current and functional by using Infrastructure as Code, continuous integration, and deployment.
+The purpose of this project is to show that one is capable of developing and deploying a cloud-based website utilizing Azure services. Using Azure services, the website is completely managed, scalable, and economical. The project demonstrates how to automate the deployment process so that the website is constantly current and functional by using  continuous integration, and deployment.
 
 This project also serves to illustrate the architecture and workings  of a decoupled web application through the seperated frontend and [backend.](https://github.com/Kinda-Nefarious/)
 
